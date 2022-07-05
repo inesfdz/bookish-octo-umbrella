@@ -5,7 +5,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_: UIApplication, didFinishLaunchingWithOptions _: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        NablaClient.initialize(apiKey: "<yourapikey>")
+        NablaClient.initialize(apiKey: "app_pjxk4ck1pmq3rm4nned8wi7jy8kinf783zvnum3hnos84y4fzhnjey8buv93oebc")
         
         return true
     }
